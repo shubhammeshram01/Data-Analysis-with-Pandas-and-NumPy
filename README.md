@@ -1,4 +1,4 @@
-# Data-Analysis-with-Pandas and NumPy :
+# Data analysis with Pandas and NumPy :
 Analyzed various datasets with Pandas and NumPy
 
 
