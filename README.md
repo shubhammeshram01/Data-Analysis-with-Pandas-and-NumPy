@@ -1,21 +1,21 @@
-# Data-Analysis-with-Pandas and NUmpy :
-Analyzed datasets with Pandas and NUmpy
+# Data-Analysis-with-Pandas and NumPy :
+Analyzed various datasets with Pandas and NumPy
 
 
-# Had hands on following :
+# Had hands-on following operations in Pandas and NumPy:
 1) Series and DataFrames
 2) Extract data using indexes
 3) Filtering data in the DataFrame
 4) Data Transformations with Pandas 
 5) Data aggregation with pandas
-6) Merging, joining and concatenating data frames
-7) Worked with dates and times in data frame
+6) Merging, joining, concatenating data frames
+7) Worked with dates and times in the data frame
 8) Data visualization with pandas
 9) Data type conversion
 10) Drop duplicates
 11) Sorting values and Indexes
 
-# Hands on various follwoing datasets :
+# Had Hands on various following datasets :
 1) Census 2011
 2) Cars
 3) Covid 19
