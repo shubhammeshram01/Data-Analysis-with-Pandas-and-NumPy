@@ -23,7 +23,7 @@ Analyzed various datasets with Pandas and NumPy
 |2)| Cars Data | [Analysis File]()|[CSV File](https://github.com/shubhammeshram01/Data-Analysis-with-Pandas-and-NumPy/blob/main/Cars%20data.csv)|
 |3)| Covid 19 Data | [Analysis File]()|[CSV File](https://github.com/shubhammeshram01/Data-Analysis-with-Pandas-and-NumPy/blob/main/Covid%2019%20data.csv)|
 |4)| Housing Data| [Analysis File]()|[CSV File](https://github.com/shubhammeshram01/Data-Analysis-with-Pandas-and-NumPy/blob/main/Housing%20data.csv)|
-|5)| Netflix Data | [Analysis File]()|[CSV File](https://raw.githubusercontent.com/shubhammeshram01/Data-Analysis-with-Pandas-and-NumPy/main/Netflix.csv)|
+|5)| Netflix Data | [Analysis File]()|[CSV File](https://github.com/shubhammeshram01/Data-Analysis-with-Pandas-and-NumPy/blob/main/Netflix.csv)|
 |6)| Police Data | [Analysis File]()|[CSV File](https://github.com/shubhammeshram01/Data-Analysis-with-Pandas-and-NumPy/blob/main/Police%20data.csv)|
 |7)| Udemy Data | [Analysis File]()|[CSV File](https://github.com/shubhammeshram01/Data-Analysis-with-Pandas-and-NumPy/blob/main/Udemy.csv)|
 
