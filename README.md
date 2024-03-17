@@ -17,16 +17,14 @@ Analyzed various datasets with Pandas and NumPy
 
 # Had Hands on various following datasets :
 
-|Sr. No.|Dataset Name|Python File|Csv File|
+|Sr. No.|Dataset Name|Python File|CSV File|
 |-|-|-|-|
-|1)| Census 2011 | [Analysis File](https://github.com/shubhammeshram01/Data-Analysis-with-Pandas-and-NumPy/blob/main/Census%202011%20Data%20Analysis%20with%20Pandas%2C%20NUmpy.ipynb)|[Csv File](https://github.com/shubhammeshram01/Data-Analysis-with-Pandas-and-NumPy/blob/main/Census%202011.csv)|
+|1)| Census 2011 | [Analysis File](https://github.com/shubhammeshram01/Data-Analysis-with-Pandas-and-NumPy/blob/main/Census%202011%20Data%20Analysis%20with%20Pandas%2C%20NUmpy.ipynb)|[CSV File](https://github.com/shubhammeshram01/Data-Analysis-with-Pandas-and-NumPy/blob/main/Census%202011.csv)|
+|2)| Cars Data | [Analysis File]()|[CSV File]()|
+|3)| Covid 19 Data | [Analysis File]()|[CSV File]()|
+|4)| Housing Data| [Analysis File]()|[CSV File]()|
+|5)| Netflix Data | [Analysis File]()|[CSV File]()|
+|6)| Police Data | [Analysis File]()|[CSV File]()|
+|7)| Udemy Data | [Analysis File]()|[CSV File]()|
 
-
-
-2) Cars
-3) Covid 19
-4) Housing data
-5) Netflix data
-6) Police data
-7) Udemy data
 
