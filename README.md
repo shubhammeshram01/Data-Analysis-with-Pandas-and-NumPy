@@ -16,7 +16,11 @@ Analyzed various datasets with Pandas and NumPy
 11) Sorting values and Indexes
 
 # Had Hands on various following datasets :
-1) Census 2011
+
+|Sr. No.|Dataset Name|Python File|Csv File|
+|-|-|-|-|
+
+|1)| Census 2011 | [Analysis File](https://github.com/shubhammeshram01/Data-Analysis-with-Pandas-and-NumPy/blob/main/Census%202011%20Data%20Analysis%20with%20Pandas%2C%20NUmpy.ipynb)|[Csv File](https://github.com/shubhammeshram01/Data-Analysis-with-Pandas-and-NumPy/blob/main/Census%202011.csv)
 2) Cars
 3) Covid 19
 4) Housing data
