@@ -19,7 +19,7 @@ Analyzed various datasets with Pandas and NumPy
 
 |Sr. No.|Dataset Name|Python File|CSV File|
 |-|-|-|-|
-|1)| Census 2011 | [Analysis File](https://github.com/shubhammeshram01/Data-Analysis-with-Pandas-and-NumPy/blob/main/Census%202011%20Data%20Analysis%20with%20Pandas%2C%20NUmpy.ipynb)|[CSV File](https://github.com/shubhammeshram01/Data-Analysis-with-Pandas-and-NumPy/blob/main/Census%202011.csv)|
+|1)| Census 2011 | [Analysis File](https://github.com/shubhammeshram01/Data-Analysis-with-Pandas-and-NumPy/blob/main/Census%202011%20Data%20Analysis.ipynb)|[CSV File](https://github.com/shubhammeshram01/Data-Analysis-with-Pandas-and-NumPy/blob/main/Census%202011.csv)|
 |2)| Cars Data | [Analysis File]()|[CSV File](https://github.com/shubhammeshram01/Data-Analysis-with-Pandas-and-NumPy/blob/main/Cars%20data.csv)|
 |3)| Covid 19 Data | [Analysis File](https://github.com/shubhammeshram01/Data-Analysis-with-Pandas-and-NumPy/blob/main/Covid_19%20Data%20Analysis.ipynb)|[CSV File](https://github.com/shubhammeshram01/Data-Analysis-with-Pandas-and-NumPy/blob/main/Covid%2019%20data.csv)|
 |4)| Housing Data| [Analysis File]()|[CSV File](https://github.com/shubhammeshram01/Data-Analysis-with-Pandas-and-NumPy/blob/main/Housing%20data.csv)|
