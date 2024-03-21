@@ -10,10 +10,10 @@ Analyzed various datasets with Pandas and NumPy
 5) Data aggregation with pandas
 6) Merging, joining, concatenating data frames
 7) Worked with dates and times in the data frame
-8) Data visualization with pandas
-9) Data type conversion
-10) Drop duplicates
-11) Sorting values and Indexes
+8) Data type conversion
+9) Drop duplicates
+10) Sorting values and Indexes
+11) Fill null values with mean
 
 # Had Hands on various following datasets :
 
