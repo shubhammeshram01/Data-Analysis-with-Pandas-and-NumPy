@@ -15,7 +15,7 @@ Analyzed various datasets with Pandas and NumPy
 10) Sorting values and Indexes
 11) Fill null values with mean
 
-# Had hands-on following datasets :
+# Had hands-on following various datasets :
 
 |Sr. No.|Dataset Name|Python File|CSV File|
 |-|-|-|-|
