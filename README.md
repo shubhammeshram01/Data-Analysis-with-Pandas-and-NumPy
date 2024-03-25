@@ -2,7 +2,7 @@
 Analyzed various datasets with Pandas and NumPy
 
 
-# Had hands-on following operations in Pandas and NumPy:
+# Analyzed datasets using the following operations in Pandas and NumPy:
 1) Series and DataFrames
 2) Extract data using indexes
 3) Filtering data in the DataFrame
@@ -15,7 +15,7 @@ Analyzed various datasets with Pandas and NumPy
 10) Sorting values and Indexes
 11) Fill null values with mean
 
-# Had hands-on following various datasets :
+# Analyzed the following datasets using Pandas and NumPy:
 
 |Sr. No.|Dataset Name|Python File|CSV File|
 |-|-|-|-|
